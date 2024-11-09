@@ -1,4 +1,3 @@
-Here's the entire README content in Markdown format, ready to paste into your GitHub README file:
 # **Voice-Activated UPI Transaction System**
 
 ## Project Overview
