@@ -1,4 +1,0 @@
-requests>=2.24
-streamlit>=0.84
-openai
-
